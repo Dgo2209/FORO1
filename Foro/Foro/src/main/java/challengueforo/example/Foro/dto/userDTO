@@ -1,0 +1,8 @@
+package com.example.foro.dto;
+
+public class UserDto {
+    private String username;
+    private String password;
+
+    // Getters and Setters
+}
